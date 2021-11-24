@@ -1,18 +1,14 @@
 /*************************************
 *
 *Author: Lidia Dalecka
-*Date: 24.11.2021
+*Date: 25.11.2021
 *
 *************************************/
 
-span[class~="deck"]{
-    color: purple;
+a:hover{
+    color: red;
 }
 
-div[id]{
-    background: grey;
-}
-
-a[href^="https"]{
-    color: pink;
+#main-content:hover{
+    background: red;
 }
