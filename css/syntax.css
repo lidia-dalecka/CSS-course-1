@@ -6,19 +6,10 @@
 *************************************/
 
 
-/* TARGETING ELEMENTS / TAGS */
+p{
+    color: red !important;
+}
 
 #main-content p{
-    color: red;
-}
-
-p{
     color: green;
-}
-.test{
-    color: blue;
-}
-
-strong{
-    color: purple;
 }
