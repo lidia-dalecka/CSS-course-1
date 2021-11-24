@@ -8,18 +8,17 @@
 
 /* TARGETING ELEMENTS / TAGS */
 
-body{
+#main-content p{
     color: red;
-}
-
-div{
-    color: blue
 }
 
 p{
     color: green;
 }
-a{
+.test{
     color: blue;
-    text-decoration: underline;
+}
+
+strong{
+    color: purple;
 }
