@@ -1,4 +1,24 @@
+/*************************************
+*
+*Author: Lidia Dalecka
+*Date: 24.11.2021
+*
+*************************************/
+
+
+/*Style all P tags*/
+
 p{
    font-size: 18px;
    color: red; 
+}
+
+#header p{
+    font-size: 24 px;
+}
+
+/*Style all header tags*/
+
+h1{
+   font-size: 44px; 
 }
