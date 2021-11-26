@@ -4,12 +4,19 @@
 *Date: 26.11.2021
 *
 *************************************/
-a{
-    margin: 10px;
-    padding: 10px;
+#main-content div{
+    margin: 0 0 20px 0;
     background-color: #ccc;
-    border: 1px solid #aaa;
-    color: #000;
-    text-decoration: none;
+}
+.static-width{
+    width: 300px;
+    height: 100px;
+}
+.percentage-width{
+    width: 70%;
+    height: 50px;
+}
+.inline-block{
+    width: 40%;
     display: inline-block;
 }
