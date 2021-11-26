@@ -4,14 +4,7 @@
 *Date: 26.11.2021
 *
 *************************************/
-a{
-    color: crimson;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-a:hover{
-    color:darkmagenta;
-    text-decoration: underline;
-    background-color: aquamarine;
+p{
+    font-size: 12px;
+    line-height: 1.5em;
 }
