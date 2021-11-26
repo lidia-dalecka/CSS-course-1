@@ -1,11 +1,14 @@
 /*************************************
 *
 *Author: Lidia Dalecka
-*Date: 25.11.2021
+*Date: 26.11.2021
 *
 *************************************/
+h1{
+    font-weight: normal;
+    }
 
-
-a{
-    text-decoration: line-through;
+p{
+    font-weight: 100;
+    font-family:"Yu Gothic"
 }
