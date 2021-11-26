@@ -5,11 +5,17 @@
 *
 *************************************/
 
-.static-width{
-    width: 300px;
+#banner{
+    width: 100%;
     height: 300px;
-    background: url(https://images.freeimages.com/images/large-previews/b2d/kiwi-fruit-macros-1313905.jpg) no-repeat top center;
     background-color: #606060;
-    background-size: 170%;
-    
+    background-image: url(https://images.freeimages.com/images/large-previews/9f9/selfridges-2-1470748.jpg), url(https://images.freeimages.com/images/large-previews/b2d/kiwi-fruit-macros-1313905.jpg);
+    background-repeat: no-repeat, no-repeat;
+    background-position: center, top left;
+    background-size: 50%, 120%;
 }
+
+/*
+https://images.freeimages.com/images/large-previews/b2d/kiwi-fruit-macros-1313905.jpg
+https://images.freeimages.com/images/large-previews/9f9/selfridges-2-1470748.jpg
+*/
